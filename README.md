@@ -1,4 +1,6 @@
-# notes-app
+![Screenshot](ss/my.png)
+
+NOTES APP
 Used Node.js and Express
 
 Install dependencies

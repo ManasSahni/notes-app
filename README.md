@@ -1,4 +1,4 @@
-![Screenshot](ss/notes app.png)
+![Screenshot](ss/notes-app.png)
 #NOTES APP 
 
 Used Node.js and Express

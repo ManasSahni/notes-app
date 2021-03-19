@@ -1,4 +1,4 @@
-![Screenshot](Screenshot 2021-03-19 185000.png)
+![Screenshot](ss/Screenshot 2021-03-19 185000.png)
 
 NOTES APP
 Used Node.js and Express
